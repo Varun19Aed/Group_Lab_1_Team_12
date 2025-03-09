@@ -11,7 +11,7 @@ package teamGreetings;
 public class Main {
 
     public static void main(String[] args ){
-        
+           Varun.main(args);
     }
   
 
