@@ -6,17 +6,10 @@ package teamGreetings;
 
 /**
  *
- * @author varun
+ * @author nikhi
  */
-public class Main {
-
-    public static void main(String[] args ){
-           Varun.main(args);
-           Manasa.main(args);
-           Nikhil.main(args);
+public class Nikhil {
+    public static void main(String[] args) {
+     System.out.println("Hello from Nikhil!");
     }
-  
-
-    
 }
-
